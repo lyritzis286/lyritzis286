@@ -28,11 +28,11 @@
 
 ---
 
-## Goals for 2025-2026
+## Goals for 2026-2027
 
-- [ ] Complete Coding Factory AUEB program
-- [ ] Build my first Full Stack project
+
 - [ ] Land my first Junior Developer job
+- [ ] Continue developing full stack projects
 
 ---
 
