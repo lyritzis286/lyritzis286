@@ -21,10 +21,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Currently Working On
-
-- Java exercises @ Coding Factory AUEB
-- JavaScript
-- Building my foundation for Full Stack Development
+Full Stack Web Projects
 
 ---
 
